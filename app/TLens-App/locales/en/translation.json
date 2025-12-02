@@ -1,0 +1,136 @@
+{
+   
+  "welcomeTitle": "Welcome!",
+  "welcomeSubtitle": "If you have a TLens, you can pair it with your smartphone.",
+  "pairButton": "Pair",
+  
+  "menu": {
+     "conversas": "History",
+    "texto": "Teleprompter  ",
+    "meuTlens": "My TLens",
+    "extras": "More",
+    "respostas": "Quick Replies",
+    "configuracoes": "Settings",
+    "ajuda": "Help"
+  },
+  "settings": {
+    "titulo": "Settings",
+    "sobreVersao": "Version",
+    "notificacoes": "Notifications",
+    "desconectar": "Forget Device",
+    "limparCache": "Clear cache",
+    "cacheLimpo": "Cache cleared",
+    "cacheMensagem": "Cache has been successfully cleared!"
+  },
+   "disconnect": {
+    "titulo": "Forget Device",
+    "botao": "Forget",
+    "semDispositivos": "No TLens devices connected at the moment."
+  },
+  "manageNotifications": {
+    "titulo": "Notifications",
+    "bateria": "Battery Alert",
+    "atualizacao": "Update"
+  },
+   "notification": {
+    "title": "Notification",
+    "updateAvailable": "Update Available!",
+    "placeholder": "Description .................................",
+    "months": {
+      "month": "Month",
+      "august": "August"
+    }
+  },
+   "myTLens": {
+    "title": "My TLens",
+    "language": "Transcription Language",
+    "fontSize": "Font Size",
+    "displaySpeed": "Display Speed",
+    "viewSide": "View Side",
+    "desconectar": "Disappear Device "
+  },
+  "language": {
+    "title": "Transcription Language",
+    "continue": "Continue",
+    "confirmTitle": "Confirm Language",
+    "confirmMessage": "Do you really want to change the language to",
+    "cancel": "Cancel",
+    "confirm": "Yes"
+  },
+  
+  "font": {
+    "title": "Font Size",
+    "unit": "pt"
+  },
+  "vizu": {
+    "title": "Viewing Side",
+    "subtitle": "Choose the side you want to view",
+    "wordDescription": "Allows you to choose which side of the lens the text will be displayed on. Useful for adjusting the reading position according to the user's visual preference on the glasses.",
+    "left": "Left",
+    "right": "Right"
+  },
+  "speed": {
+  "title": "Display Speed",
+  "wordTitle": "Interval Between Words",
+  "wordDescription": "Sets the pause duration between each word.Useful for adjusting speech or reading pace word by word.",
+  "finalTitle": "Final Interval",
+  "finalDescription": "Determines the waiting time after the transcription ends.Can be used to pause before starting the next action or repetition."
+},
+
+"desconectar": {
+    "titulo": "Disappear Device",
+    "botao": "Disappear",
+    "semDispositivos": "No TLens devices connected at the moment."
+  },
+
+"talk": {
+  "title": "Quick Replies",
+  "addTitle": "Add Quick Reply",
+  "inputPlaceholder": "Type your new reply",
+  "placeholder": "Type your new reply",
+  "deleteTitle": "Delete reply",
+  "deleteMessage": "Are you sure you want to delete",
+  "quickReplies": [
+    "Hi, how are you?",
+    "Yes.",
+    "No.",
+    "I understand.",
+    "Can you repeat, please?",
+    "Explain again, please.",
+    "Speak more slowly.",
+    "Thank you.",
+    "Wait a moment, please.",
+    "It's too noisy here.",
+    "Please continue."
+  ]
+},
+"common": {
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "save": "Save"
+},
+
+"historico": {
+    "ontem": "Yesterday",
+    "hoje": "Today",
+    "title": "Conversation History",
+    "semConversas": "No conversations recorded yet."
+  },
+
+  "teleprompter": {
+    "title": "Display Text",
+      "subtitle": "Teleprompter function",
+      "inputPlaceholder": "Write the text below to be displayed on the glasses",
+      "placeholder": "Write...",
+      "fontSize": "Font Size",
+      "speed": "Speed",
+      "direction": "Direction",
+      "left": "Left",
+      "right": "Right",
+      "wordInterval": "Word Interval",
+      "wordIntervalDescription": "Defines the pause between each word (ms)",
+      "finalInterval": "Final Interval",
+      "finalIntervalDescription": "Time to wait after transcription (ms)",
+      "display": "Display"
+  } 
+}

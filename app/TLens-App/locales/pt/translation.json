@@ -1,0 +1,136 @@
+{
+  
+    "_comentario": "Textos da tela de pareamento",
+    "welcomeTitle": "Bem-vindo!",
+    "welcomeSubtitle": "Se você tem um TLens, pode emparelhá-lo com seu smartphone.",
+    "pairButton": "Emparelhar",
+  
+  "menu": {
+    "conversas": "Histórico",
+    "texto": "Teleprompter",
+    "meuTlens": "Meu TLens",
+    "extras": "Extras",
+    "respostas": "Respostas",
+    "configuracoes": "Configurações",
+    "ajuda": "Ajuda"
+  },
+  "settings": {
+    "titulo": "Configuração",
+    "sobreVersao": "Sobre esta versão",
+    "notificacoes": "Gerenciar Notificações",
+    "desconectar": "Esquecer Dispositivo",
+    "limparCache": "Limpar cache",
+    "cacheLimpo": "Cache limpo",
+    "cacheMensagem": "O cache foi limpo com sucesso!"
+  },
+  "disconnect": {
+    "titulo": "Esquecer Dispositivo",
+    "botao": "Esquecer",
+    "semDispositivos": "Nenhum TLens conectado no momento."
+  },
+  "manageNotifications": {
+    "titulo": "Gerenciar Notificações",
+    "bateria": "Notificação de bateria",
+    "atualizacao": "Atualização de versão"
+  },
+  "notification": {
+    "title": "Notificação",
+    "updateAvailable": "Atualização Disponível!",
+    "placeholder": "Descrição .................................",
+    "months": {
+      "month": "Mês",
+      "august": "Agosto"
+    }
+  },
+  "myTLens": {
+    "title": "Meu TLens",
+    "language": "Idioma da Transcrição",
+    "fontSize": "Tamanho da Fonte",
+    "displaySpeed": "Velocidade da Exibição",
+    "viewSide": "Lado de Visualização",
+    "desconectar": "Desparear Dispositivo "
+  },
+  "language": {
+    "title": "Idioma da Transcrição",
+    "continue": "Continuar",
+    "confirmTitle": "Confirmar idioma",
+    "confirmMessage": "Deseja realmente mudar o idioma para",
+    "cancel": "Cancelar",
+    "confirm": "Sim"
+  },
+  "font": {
+    "title": "Tamanho da Fonte",
+    "unit": "pt"
+  },
+  "vizu": {
+    "title": "Lado de Visualização",
+    "subtitle": "Escolha o lado que quer visualizar",
+    "wordDescription": "Permite escolher em qual lado da lente o texto será exibido. Útil para ajustar a posição da leitura conforme a preferência visual do usuário no óculos.",
+    "left": "Esquerdo", 
+    "right": "Direito"
+  },
+  "speed": {
+  "title": "Velocidade de exibição",
+  "wordTitle": "Intervalo entre palavras",
+  "wordDescription": "Define o tempo de pausa entre cada palavra.Útil para ajustar o ritmo da fala ou leitura palavra por palavra.",
+  "finalTitle": "Intervalo final",
+  "finalDescription": "Determina o tempo de espera após o término da transcrição.Pode ser usado para dar uma pausa antes de iniciar a próxima ação ou repetição."
+},
+
+ "desconectar": {
+    "titulo": "Desparear Dispositivo",
+    "botao": "Desparear",
+    "semDispositivos": "Nenhum TLens conectado no momento."
+  },
+
+"talk": {
+  "title": "Respostas Rápidas",
+  "addTitle": "Adicionar resposta rápida",
+  "placeholder": "Digite a nova resposta",
+  "inputPlaceholder": "Digite a nova resposta",
+  "deleteTitle": "Excluir resposta",
+  "deleteMessage": "Tem certeza que deseja excluir",
+  "quickReplies": [
+    "Oi, tudo bem?",
+    "Sim.",
+    "Não.",
+    "Entendi.",
+    "Pode repetir, por favor?",
+    "Me explique de novo.",
+    "Fala mais devagar.",
+    "Obrigado.",
+    "Espere um momento, por favor.",
+    "Está muito barulho aqui.",
+    "Continue, por favor."
+  ]
+},
+"common": {
+  "cancel": "Cancelar",
+  "delete": "Excluir",
+  "save": "Salvar"
+},
+"historico": {
+    "ontem": "Ontem",
+    "hoje": "Hoje",
+    "title": "Histórico de Conversas",
+    "semConversas": "Nenhuma conversa registrada ainda."
+  },
+"teleprompter": {
+     "title": "Exibir Texto",
+      "subtitle": "Função teleprompter",
+      "inputPlaceholder": "Escreva o texto abaixo para ser exibido nos óculos",
+      "placeholder": "Escreva...",
+      
+      "fontSize": "Tamanho da fonte",
+      "speed": "Velocidade da exibição",
+      "direction": "Direção da exibição",
+      "left": "Esquerda",
+      "right": "Direita",
+      "wordInterval": "Intervalo entre palavras",
+      "wordIntervalDescription": "Define o tempo de pausa entre cada palavra (ms)",
+      "finalInterval": "Intervalo final",
+      "finalIntervalDescription": "Tempo de espera após transcrição (ms)",
+      "display": "Exibir"
+  }
+  
+}
