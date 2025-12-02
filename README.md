@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TLensLogoPretoTransparente.png" alt="Logo TLens" width="200"/>
+  <img src="docs\images\TLensLogoPretoTransparente.png" alt="Logo TLens" width="200"/>
 </p>
 
 <h1 align="center">TLens: Óculos de Transcrição para Acessibilidade (IoT)</h1>
