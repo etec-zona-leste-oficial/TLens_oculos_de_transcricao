@@ -80,7 +80,7 @@ O projeto foi construído visando o custo-benefício e a eficiência energética
 
 | Protótipo Final | App - Home | App - Configurações |
 |:---:|:---:|:---:|
-| <img src="caminho/para/foto_oculos.jpg" width="250" alt="Foto dos Óculos"> | <img src="caminho/para/print_home.jpg" width="150" alt="Print Home"> | <img src="caminho/para/print_config.jpg" width="150" alt="Print Config"> |
+| <img src="docs\images\FeiraTec2.jpeg" width="250" alt="Foto dos Óculos"> | <img src="docs\images\Home.jpeg" width="150" alt="Print Home"> | <img src="docs\images\Configs.jpeg" width="150" alt="Print Config"> |
 
 ## 👥 Autores
 
